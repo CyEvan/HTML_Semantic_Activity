@@ -1,0 +1,43 @@
+.w3-container {
+    border: 5px solid;
+    border-color: aqua;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(45, 196, 196);
+  
+  
+  }
+  
+  body {
+    background-color: rgb(124, 230, 230);
+  }
+  
+  .lp {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    text-decoration: solid;
+    font-size: 150px;
+  }
+  
+  
+  .image {
+    width: 100%;
+    height: auto;
+    object-fit: fill;
+    object-fit: scale-down;
+  
+  }
+  
+  .cforms {
+    border: 5px solid;
+    border-color: aqua;
+    margin: auto;
+    width: 50%;
+    padding: auto;
+    text-align: center;
+    background-color: rgb(45, 196, 196);
+  }
